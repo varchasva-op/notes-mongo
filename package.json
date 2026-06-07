@@ -14,6 +14,7 @@
     "invert-kv": "^1.0.0",
     "is-fullwidth-code-point": "^1.0.0",
     "lcid": "^1.0.0",
+    "mongoose": "^9.6.3",
     "number-is-nan": "^1.0.1",
     "os-locale": "^1.4.0",
     "string-width": "^1.0.2",
