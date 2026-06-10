@@ -13,7 +13,7 @@ Backend/
 │   │   └── db.js            # MongoDB Connection Setup
 │   ├── models/
 │   │   └── note.model.js    # Mongoose Schema & Model for Notes
-│   └── app.js               # Express Routes (GET, POST, PATCH, DELETE)
+│   └── app.js               # Express Routes (GET, POST, PATCH, DELETE
 ├── .gitignore               # Ignored files (node_modules, secrets)
 ├── package.json             # Project dependencies & scripts
 └── server.js                # Server entry point listening on Port 3000
