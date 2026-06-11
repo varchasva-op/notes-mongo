@@ -9,7 +9,7 @@ This is my very first backend project built using Node.js, Express, and MongoDB.
 Backend/
 ├── node_modules/
 ├── src/
-│   ├── db/
+│   ├── db
 │   │   └── db.js            # MongoDB Connection Setup
 │   ├── models/
 │   │   └── note.model.js    # Mongoose Schema & Model for Notes
@@ -18,9 +18,9 @@ Backend/
 ├── package.json             # Project dependencies & scripts
 └── server.js                # Server entry point listening on Port 3000
 
----
+--l
 
-## 🛠️ Features & Tech Stack
+## 🛠️ Features & Tech Sta
 
 
 - **Backend:** Node.js & Express.js
