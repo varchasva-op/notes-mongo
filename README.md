@@ -18,7 +18,6 @@ Backend/
 ├── package.json             # Project dependencies & scripts
 └── server.js                # Server entry point listening on Port 3000
 
---l
 
 ## 🛠️ Features & Tech Sta
 
