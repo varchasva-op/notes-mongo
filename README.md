@@ -19,7 +19,7 @@ Backend/
 └── server.js                # Server entry point listening on Port 3000
 
 
-## 🛠️ Features & Tech Sta
+## 🛠️ Features & Tech Stack.
 
 
 - **Backend:** Node.js & Express.js
